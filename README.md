@@ -1,2 +1,3 @@
-# auto-project-planner-h6qn
-Automated issue comment bot repository
+# Auto Project Planner H6Qn
+
+Automated issue comment bot repository.
